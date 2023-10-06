@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Alexei Ishtuganov](https://up.htmlacademy.ru/javascript/30/user/1853321).
-* Наставник: `Неизвестно`.
+* Наставник: `Павел Позняк https://github.com/justforthesoul`.
 
 ---
 
